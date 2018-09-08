@@ -3,7 +3,8 @@
 ## Tasks:
  - [x] Setup initial project  
         - Nodemon, Eslint & Favicon
- - [ ] Setup color and Font
+ - [x] Setup color and Font
+        - Font = Railway & Color for texts
  - [ ] Integrate JWT Authentication
  - [ ] Initiate PWA Features
  - [ ] Add email verification

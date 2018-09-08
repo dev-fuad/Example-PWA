@@ -1,8 +1,17 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 14px "Raleway", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  color: #3E3E3E;
 }
 
 a {
   color: #00B7FF;
+  text-decoration: none;
+}
+
+p {
+  color: #999999;
 }
