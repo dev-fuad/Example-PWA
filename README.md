@@ -5,7 +5,8 @@
         - Nodemon, Eslint & Favicon
  - [x] Setup color and Font
         - Font = Railway & Color for texts
- - [ ] Integrate JWT Authentication
+ - [x] Integrate JWT Authentication
+ - [ ] Add database to complete Authentication
  - [ ] Initiate PWA Features
  - [ ] Add email verification
  - [ ] Host it somewhere
